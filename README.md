@@ -1,6 +1,6 @@
 #  Data Professional Survey Breakdown – Power BI Project
 
-This Power BI project visualizes insights from a survey conducted among **630+ data professionals** across the globe. It dives into key aspects such as job roles, salary trends, favorite programming languages, work-life balance, and the perceived difficulty of breaking into the data domain.
+This Power BI project visualizes insights from a survey conducted among **600+ data professionals** across the globe. It dives into key aspects such as job roles, salary trends, favorite programming languages, work-life balance, and the perceived difficulty of breaking into the data domain.
 
 ## Project Overview
 
